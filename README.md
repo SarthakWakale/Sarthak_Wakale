@@ -250,7 +250,7 @@ Developer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthak_Wakale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=tokyonight&hide_border=true"/>
 
