@@ -9,9 +9,9 @@
 </p>
 
 <p>
-<a href="https://github.com/sachin-rathod-tech"><img src="https://img.shields.io/badge/GitHub-SARTHAK%20WAKALE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sachin-rathod@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SarthakWakale"><img src="https://img.shields.io/badge/GitHub-SARTHAK%20WAKALE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sarthakwakale@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=sarthakwakale&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
