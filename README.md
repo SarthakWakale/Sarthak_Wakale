@@ -1,80 +1,61 @@
-
 <div align="center">
 
-<!-- 🌈 COLORFUL HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,35&text=SARTHAK WAKALE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:2563EB,100:06B6D4&text=SARTHAK%20WAKALE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h1>⚡ Sarthak Wakale ⚡</h1>
-
-<h3>☁️ DevOps Engineer • Cloud • Automation • Kubernetes</h3>
+<h2>☁️ DevOps Engineer • Cloud • Automation • Kubernetes</h2>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+Build+%7C+Automate+%7C+Deploy;☁️+AWS+Cloud+%7C+Terraform+%7C+Docker;☸️+Kubernetes+%7C+Jenkins+%7C+Linux;🎮+Code+%7C+Create+%7C+Experiment;🔥+Always+Learning+Something+New" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+Linux+%7C+Jenkins;Always+Learning+%26+Building" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/DEVOPS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/CLOUD-1d4ed8?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTOMATION-7c3aed?style=for-the-badge&logo=dependabot&logoColor=white"/>
-<img src="https://img.shields.io/badge/CODE-ec4899?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<a href="https://github.com/sachin-rathod-tech"><img src="https://img.shields.io/badge/GitHub-SARTHAK%20WAKALE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sachin-rathod@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/sachin-rathod-tech">
-<img src="https://img.shields.io/badge/GitHub-SARTHAK-WAKALE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239">
-<img src="https://img.shields.io/badge/LinkedIn-SARTHAK%20WAKALE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sachin-rathod@outlook.com">
-<img src="https://img.shields.io/badge/Email-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&label=PROFILE%20VIEWS&color=ff00cc&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sarthakwakale&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌈 `WELCOME TO MY DIGITAL WORLD` 🌈
-
-<img width="80%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-### 👋 Hello, I'm **Sarthak Wakale**
+### Hi, I'm **Sarthak Wakale**
 
-I'm a **DevOps-focused engineer** passionate about cloud infrastructure, automation, containers, CI/CD and Kubernetes.
+I'm a **DevOps-focused engineer** interested in cloud infrastructure, automation, containers, CI/CD and Kubernetes.
 
-🎯 My goal is to build **reliable, scalable and automated systems** while continuously improving my technical skills.
+I enjoy turning infrastructure and deployment processes into **repeatable, reliable and automated workflows**.
+
+- ☁️ AWS cloud infrastructure
+- 🏗️ Infrastructure as Code with Terraform
+- 🐳 Containerization with Docker
+- ☸️ Kubernetes orchestration
+- ⚙️ CI/CD with Jenkins
+- 🐧 Linux administration
+- 🌿 Git & GitHub workflows
+- 🚀 Hands-on DevOps projects
 
 </td>
-<td width="45%">
+<td width="40%">
 
 ```text
-╔══════════════════════════╗
-║       CURRENT MODE       ║
-╠══════════════════════════╣
-║ ☁️  AWS Cloud            ║
-║ 🐳 Docker               ║
-║ ☸️  Kubernetes           ║
-║ 🏗️  Terraform           ║
-║ ⚙️  Jenkins              ║
-║ 🐧  Linux                ║
-║ 🌿  Git / GitHub         ║
-║ 🚀  DevOps              ║
-╚══════════════════════════╝
+╭─────────────────────────╮
+│     SARTHAK WAKALE      │
+├─────────────────────────┤
+│ ☁️  CLOUD               │
+│ 🐳 CONTAINERS           │
+│ ☸️  KUBERNETES          │
+│ 🏗️  TERRAFORM           │
+│ ⚙️  CI / CD             │
+│ 🐧 LINUX               │
+│ 🚀 DEVOPS              │
+╰─────────────────────────╯
 ```
 
 </td>
@@ -83,265 +64,205 @@ I'm a **DevOps-focused engineer** passionate about cloud infrastructure, automat
 
 ---
 
-# 🛠️ TECH ARSENAL
+# 🧰 TECH STACK
 
 <div align="center">
 
-### ☁️ CLOUD
-<img src="https://skillicons.dev/icons?i=aws,terraform"/>
+### ☁️ Cloud & Infrastructure
 
-### 🐳 CONTAINERS & ORCHESTRATION
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
 
-### ⚙️ DEVOPS & AUTOMATION
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,bash"/>
+### 🐳 Containers & Orchestration
 
-### 🐧 SYSTEMS & DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+### ⚙️ CI/CD & Version Control
+
+<img src="https://skillicons.dev/icons?i=jenkins,git,github" />
+
+### 🐧 Systems & Development
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,html,css,js" />
 
 </div>
 
----
-
-# 🎮 GAME ZONE
+<br>
 
 <div align="center">
 
-### 🕹️ READY TO PLAY?
-
-**My GitHub profile isn't only about work — here's a little GAME ZONE!**
-
-</div>
-
-### 🍄 MARIO CHARACTER
-
-<div align="center">
-
-<img src="https://www.mariowiki.com/images/7/77/Mario_Party_jump.gif" width="180" alt="Mario jumping"/>
-
-### ⭐ IT'S-A-ME, MARIO! ⭐
-
-**Level up your profile with a little Mushroom Kingdom energy! 🍄 🪙 ⭐**
-
-`RUN` → `JUMP` → `POWER UP` → `DEPLOY 🚀`
-
-<img src="https://img.shields.io/badge/MARIO-LEVEL%20UP-E52521?style=for-the-badge&logo=nintendo&logoColor=white"/>
-<img src="https://img.shields.io/badge/COINS-100-F7C948?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/POWER-DEVOPS-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 </div>
-
-> Mario is the hero of the Mushroom Kingdom, recognized by his red cap, blue overalls, and moustache. urlOfficial Nintendo Mario pagehttps://mario.nintendo.com/characters/
-
-### 🎮 Game 1 — Guess The Number
-
-```text
-╔══════════════════════════════════════════════╗
-║             🎯 GUESS THE NUMBER              ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║     I'm thinking of a number from 1–10.     ║
-║                                              ║
-║              🤔  ???                         ║
-║                                              ║
-║        Your mission: Find the number!       ║
-║                                              ║
-║        1️⃣  2️⃣  3️⃣  4️⃣  5️⃣                 ║
-║        6️⃣  7️⃣  8️⃣  9️⃣  🔟                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-<details>
-<summary>🏆 Click for the answer</summary>
-
-**The secret number is 7! 🎉**
-
-</details>
-
----
-
-### 🧩 Game 2 — DevOps Quiz
-
-<details>
-<summary>🚀 Question 1 — What does CI/CD mean?</summary>
-
-**Answer:** Continuous Integration / Continuous Delivery (or Deployment).
-
-</details>
-
-<details>
-<summary>🐳 Question 2 — Which tool is used for containers?</summary>
-
-**Answer:** Docker.
-
-</details>
-
-<details>
-<summary>☸️ Question 3 — Which platform orchestrates containers?</summary>
-
-**Answer:** Kubernetes.
-
-</details>
-
-<details>
-<summary>🏗️ Question 4 — Which tool is used for Infrastructure as Code?</summary>
-
-**Answer:** Terraform.
-
-</details>
-
----
-
-### 🎮 Game 3 — Choose Your DevOps Character
-
-```text
-        ⚔️ DEVOPS BATTLE ⚔️
-
-       ┌───────────────┐
-       │ ☁️  AWS        │
-       │   CLOUD LORD  │
-       └───────────────┘
-              VS
-       ┌───────────────┐
-       │ ☸️ Kubernetes │
-       │  CONTAINER KING│
-       └───────────────┘
-
-              VS
-
-       ┌───────────────┐
-       │ 🏗️ Terraform  │
-       │ INFRA WIZARD  │
-       └───────────────┘
-```
-
-**My main character:** ☸️ **Kubernetes + AWS + Terraform**
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-## ☸️ 01 — Kubernetes Nginx Deployment
+### ☸️ Kubernetes Nginx Deployment
 
-<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+> A scalable Nginx web server deployment managed with Kubernetes orchestration.
 
-A scalable Nginx deployment managed using Kubernetes.
+**Tech:** `Kubernetes` `Nginx` `Docker` `YAML`
 
-**Highlights**
-- 🚀 Kubernetes Deployments
-- 🔀 Service networking
-- ♻️ Self-healing pods
-- ⚖️ Traffic distribution
-- 📦 Containerized workloads
+- 🚀 Deployment-based application hosting
+- 🔀 Service exposure with Kubernetes networking
+- ♻️ Self-healing application pods
+- ⚖️ Load distribution across pods
 
 ---
 
-## ⚙️ 02 — Jenkins CI/CD Pipeline
+### ⚙️ CI/CD Pipeline with Jenkins
 
-<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/TRIVY-1904DA?style=for-the-badge&logo=trivy&logoColor=white"/>
+> An end-to-end Continuous Integration and Continuous Deployment workflow.
 
-End-to-end automated CI/CD workflow.
-
-**Pipeline**
+**Tech:** `Jenkins` `Git` `Docker` `SonarQube` `Trivy`
 
 ```text
-Git Push
-   ↓
-Jenkins
-   ↓
-Build
-   ↓
-SonarQube
-   ↓
-Docker Image
-   ↓
-Trivy Scan
-   ↓
-Deploy 🚀
+Developer
+   │
+   ▼
+ Git Push
+   │
+   ▼
+ Jenkins ──► Build
+   │
+   ├──────► SonarQube
+   │
+   ├──────► Docker Build
+   │
+   ├──────► Trivy Scan
+   │
+   ▼
+ Deploy 🚀
 ```
 
 ---
 
-## 🏗️ 03 — Terraform AWS Infrastructure
+### 🏗️ Terraform AWS Infrastructure
 
-<img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+> Infrastructure as Code for repeatable AWS cloud environments.
 
-Infrastructure as Code for repeatable AWS environments.
+**Tech:** `Terraform` `AWS EC2` `VPC` `S3` `IAM`
 
-**Includes**
-- 🌐 VPC
-- 🖥️ EC2
-- 🪣 S3
-- 🔐 IAM
-- 🧩 Modular Terraform
-- ♻️ Repeatable infrastructure
+- 🌐 VPC and networking
+- 🖥️ EC2 infrastructure
+- 🪣 S3 resources
+- 🔐 IAM configuration
+- 🧩 Modular Terraform setup
 
 ---
-
-## 🎮 04 — Super Mario Web Game
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-A browser-based game built to explore interactive web development.
-
-🎮 Gameplay • 🕹️ Controls • ✨ Animations • 🏆 Scoring
-
----
-
-## 🎥 05 — Netflix Clone
-
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
-
-A Netflix-inspired movie browsing interface.
-
-🎬 Movie discovery • 🔎 Search • 🗂️ Genres • 📱 Responsive UI
-
----
-
-# 🍄 MARIO PROJECT — LEVEL UP!
-
-<div align="center">
-
-<img src="https://www.mariowiki.com/images/7/77/Mario_Party_jump.gif" width="150" alt="Mario jumping"/>
 
 ### 🎮 Super Mario Web Game
 
-**A fun browser game project inspired by classic platform-game mechanics.**
+> A browser game created to explore interactive web development and game mechanics.
 
-`HTML5` • `CSS3` • `JavaScript` • `Game Logic` • `Animations`
+**Tech:** `HTML5` `CSS3` `JavaScript`
 
-🪙 Collect coins &nbsp;&nbsp; 🧱 Jump obstacles &nbsp;&nbsp; ⭐ Chase high scores
-
-</div>
-
----
-
-# 📊 GITHUB POWER
+- 🕹️ 2D platform gameplay
+- 🧱 Obstacles and interactions
+- ✨ Animations
+- 🏆 Scoring system
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SarthakWakale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+🍄 **GAME MODE: ON** 🍄
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakWakale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakwakale&theme=tokyonight&hide_border=true"/>
+`RUN` → `JUMP` → `COLLECT` → `LEVEL UP`
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+### 🎥 Netflix Clone
+
+> A Netflix-inspired movie browsing and streaming interface.
+
+**Tech:** `React.js` `TMDB API`
+
+- 🎬 Movie browsing
+- 🔎 Search
+- 🗂️ Genre discovery
+- 📱 Responsive interface
+
+---
+
+# 🎮 CREATIVE ZONE
+
+<div align="center">
+
+## 🍄 DEVOPS × GAMING
+
+<img src="https://www.mariowiki.com/images/7/77/Mario_Party_jump.gif" width="150" alt="Mario jumping"/>
+
+### ⭐ LEVEL UP YOUR SKILLS
+
+```text
+☁️ AWS          ███████████████████░  Cloud
+🐳 Docker       ████████████████████  Containers
+☸️ Kubernetes   ███████████████░░░░░  Orchestration
+🏗️ Terraform    ██████████████████░░  IaC
+⚙️ Jenkins      █████████████████░░░  CI/CD
+🐧 Linux        ███████████████████░  Systems
+```
+
+</div>
+
+<details>
+<summary>🎯 DevOps Mini Quiz — click to play</summary>
+
+**Q1. Which tool is used for Infrastructure as Code?**
+
+<details>
+<summary>Show answer</summary>
+
+🏗️ **Terraform**
+
+</details>
+
+**Q2. Which platform orchestrates containers?**
+
+<details>
+<summary>Show answer</summary>
+
+☸️ **Kubernetes**
+
+</details>
+
+**Q3. Which tool can automate CI/CD pipelines?**
+
+<details>
+<summary>Show answer</summary>
+
+⚙️ **Jenkins**
+
+</details>
+
+</details>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sachin-rathod-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rathod-tech&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -355,17 +276,20 @@ A Netflix-inspired movie browsing interface.
 
 ---
 
-# 🎯 CURRENT MISSION
+# 🧭 CURRENT FOCUS
 
-```text
-☁️ AWS             ███████████████████░  95%
-🐳 Docker          ████████████████████  100%
-☸️ Kubernetes      ███████████████░░░░░  75%
-🏗️ Terraform       ██████████████████░░  90%
-⚙️ Jenkins         █████████████████░░░  85%
-🐧 Linux           ███████████████████░  95%
-🌿 Git / GitHub    ████████████████████  100%
-```
+<div align="center">
+
+| Focus | Goal |
+|---|---|
+| ☁️ AWS | Cloud infrastructure & services |
+| ☸️ Kubernetes | Container orchestration |
+| 🏗️ Terraform | Infrastructure as Code |
+| ⚙️ Jenkins | CI/CD automation |
+| 🐳 Docker | Containerized applications |
+| 🐧 Linux | Administration & troubleshooting |
+
+</div>
 
 ---
 
@@ -373,16 +297,16 @@ A Netflix-inspired movie browsing interface.
 
 <div align="center">
 
-<a href="https://github.com/sarthakwakale">
-<img src="https://img.shields.io/badge/GITHUB-SARTHAK-WAKALE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sachin-rathod-tech">
+<img src="https://img.shields.io/badge/GitHub-Sarthak%20Wakale-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/">
-<img src="https://img.shields.io/badge/LINKEDIN-SARTHAK%20WAKALE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239">
+<img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Wakale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sarthakwakale@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-SEND%20MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sachin-rathod@outlook.com">
+<img src="https://img.shields.io/badge/Email-sachin--rathod%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -391,10 +315,11 @@ A Netflix-inspired movie browsing interface.
 
 <div align="center">
 
-## ⭐ BUILD • AUTOMATE • DEPLOY • PLAY • LEARN ⭐
+### 💡 BUILD • AUTOMATE • DEPLOY • LEARN
 
-### Thanks for visiting **SARTHAK WAKALE** 🚀
+**Thanks for visiting my profile! ⭐**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30,35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F172A,45:2563EB,100:06B6D4"/>
 
 </div>
+
